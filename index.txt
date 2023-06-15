@@ -1,0 +1,46 @@
+<div class="projects">
+            <div class="project">
+                <div class="thumbnail">
+                    <img src="images/Thumbnail.jpg" alt="">
+                </div>
+                <h2>Complete Responsive Website</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Tempora, nostrum. Recusandae reprehenderit rem vel eaque voluptatum explicabo
+                    dolore nam exercitationem!</p>
+                <div class="action">
+                    <a href="https://github.com" target="_blank">Github</a>
+                    <a href="" target="_blank">Live Demo</a>
+                </div>
+            </div>
+        
+    
+       
+            <div class="project">
+                <div class="thumbnail">
+                    <img src="images/Team.jpg" alt="">
+                </div>
+                <h2>Complete Responsive Website</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Tempora, nostrum. Recusandae reprehenderit rem vel eaque voluptatum explicabo
+                    dolore nam exercitationem!</p>
+                <div class="action">
+                    <a href="https://github.com" target="_blank">Github</a>
+                    <a href="" target="_blank">Live Demo</a>
+                </div>
+            </div>
+      
+     
+            <div class="project">
+                <div class="thumbnail">
+                    <img src="images/Chat App.jpg" alt="">
+                </div>
+                <h2>Complete Responsive Website</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Tempora, nostrum. Recusandae reprehenderit rem vel eaque voluptatum explicabo
+                    dolore nam exercitationem!</p>
+                <div class="action">
+                    <a href="https://github.com" target="_blank">Github</a>
+                    <a href="" target="_blank">Live Demo</a>
+                </div>
+            </div>
+        </div>
