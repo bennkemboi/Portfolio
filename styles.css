@@ -525,8 +525,11 @@ body.dark-theme {
     margin: auto;
     z-index: -1;
     transition: opacity .6s;
-    opacity: 0;
+    opacity: 0;git
 
+}
+.services__card .icon-green {
+    color: #62f9d7;
 }
 .services__card:hover i {
     transform: rotateY(360deg);
